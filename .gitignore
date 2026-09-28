@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.tools/
+.pnpm-store/
+.DS_Store
+.env
+.env.*
+!.env.example
+test-results/
+design/
+content/vocabulary/*.csv
+content/vocabulary/*.md
+*.log
